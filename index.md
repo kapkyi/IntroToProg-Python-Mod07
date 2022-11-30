@@ -11,6 +11,7 @@
 # Description: 
 # ChangeLog: (Who, When, What)
 # KLwai, 11.29.2022, Created Script
+# -------------------------------------------------------- #
 
 try: 
     new_file_name = input("Enter the name of the file you want to make: ')
@@ -23,5 +24,5 @@ except Exception as e:
 ```
 
 #### Images 
-!.[Description].(https://github.com/kapkyi.IntroToProg-Python-Mod07/hdhdhdkd.png "Descriptions")
+![Description](https://github.com/kapkyi.IntroToProg-Python-Mod07/docs/Figure%2001.png "Descriptions")
 #### Figure 1: descripton image 
