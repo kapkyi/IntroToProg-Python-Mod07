@@ -104,5 +104,3 @@ This project was uploaded to my GitHub account as public. The project was upload
 
 ## Summary: 
 In conclusion, this project was created based on the starter script lab 7-1 and it was modified with added codes to complete the program. The assignment demonstrated how to utilize picking and exception error handling and upload my project to GitHub as well as how to created web page. From reading Chapter 7 of the textbook (Python Programing, 3rd edition, Michael Dawson, 2010), looking at the Module 7 documentation, lecture video and demonstrations, and the starter Python script outlines provided for the modeule, I was able to successfully complete the program. 
-
-https://github.com/kapkyi/IntroToProg-Python-Mod07/blob/main/index.md
