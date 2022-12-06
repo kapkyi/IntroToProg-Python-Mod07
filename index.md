@@ -99,7 +99,7 @@ Figure 8: binary file MyFavorites.dat created
 This project was uploaded to my GitHub account as public. The project was uploaded for others to view and provide comments or edits. In addition, a webpage for my assignment was also created.
 
 ### Assignment link: https://github.com/kapkyi/IntroToProg-Python-Mod07 
-### Webpage link: https://github.com/kapkyi/IntroToProg-Python-Mod07/blob/main/index.md
+### Webpage link: _github-pages-challenge-kapkyi
 
 
 ## Summary: 
