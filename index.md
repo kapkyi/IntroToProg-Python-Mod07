@@ -86,7 +86,7 @@ Figure 5: scripts to send data to file and read data from file and display conte
 
 ## Running The Script: 
 Lastly, I ran the program in PyCharm as well as on Shell window to double check it is working. The program ran smoothly in PyCharm as shown in screenshots (Figure 6) below as well as on Shell window (Figure 7). The file ‘MyFavorites.dat’ was also created successfully (Figure 8).
-![Description](https://github.com/kapkyi/IntroToProg-Python-Mod07/blob/main/Screen%20Shot%2006.png)
+![Description] (https://github.com/kapkyi/IntroToProg-Python-Mod07/blob/7bf454e32681a2eb2c6e9956f9772cfc7bea0565/Screen%20Shot%2006.png)
 Figure 6: Program running successful in PyCharm
 
 ![Description](https://github.com/kapkyi/IntroToProg-Python-Mod07/blob/main/Screen%20Shot%2007.png)
